@@ -13,5 +13,6 @@ namespace WpfFactorial
     /// </summary>
     public partial class App : Application
     {
+        //I need to do special things like DATA Context binding here..
     }
 }
